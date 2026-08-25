@@ -57,7 +57,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.markdown("<h1>&#8595; YouTube Downloader</h1>", unsafe_allow_html=True)
+st.markdown("<h1>Media Pull</h1>", unsafe_allow_html=True)
 st.markdown("<div class='subtitle'>Paste a link, pick your format, download in one click</div>", unsafe_allow_html=True)
 
 # ---------- Inputs ----------
