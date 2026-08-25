@@ -3,7 +3,7 @@ import tempfile
 import streamlit as st
 import yt_dlp
 
-st.set_page_config(page_title="YT Downloader", page_icon="▼", layout="centered")
+st.set_page_config(page_title="Media Pull", page_icon="▼", layout="centered")
 
 # ---------- Styling ----------
 st.markdown("""
